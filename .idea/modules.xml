@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookRecommenderProject.iml" filepath="$PROJECT_DIR$/BookRecommenderProject.iml" />
+      <module fileurl="file://D:/lib/apache-mahout/source/mahout.iml" filepath="D:/lib/apache-mahout/source/mahout.iml" />
+      <module fileurl="file://D:/lib/apache-mahout/source/buildtools/mahout-buildtools.iml" filepath="D:/lib/apache-mahout/source/buildtools/mahout-buildtools.iml" />
+      <module fileurl="file://D:/lib/apache-mahout/source/core/mahout-core.iml" filepath="D:/lib/apache-mahout/source/core/mahout-core.iml" />
+      <module fileurl="file://D:/lib/apache-mahout/source/distribution/mahout-distribution.iml" filepath="D:/lib/apache-mahout/source/distribution/mahout-distribution.iml" />
+      <module fileurl="file://D:/lib/apache-mahout/source/examples/mahout-examples.iml" filepath="D:/lib/apache-mahout/source/examples/mahout-examples.iml" />
+      <module fileurl="file://D:/lib/apache-mahout/source/integration/mahout-integration.iml" filepath="D:/lib/apache-mahout/source/integration/mahout-integration.iml" />
+      <module fileurl="file://D:/lib/apache-mahout/source/math/mahout-math.iml" filepath="D:/lib/apache-mahout/source/math/mahout-math.iml" />
+    </modules>
+  </component>
+</project>
+

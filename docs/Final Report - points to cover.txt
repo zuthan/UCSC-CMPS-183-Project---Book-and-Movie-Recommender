@@ -1,0 +1,18 @@
+Limitations of Content-Based filtering
+
+Data Sparsity problems
+
+I manually reduced the dimensionality of the Book Crossing dataset in order to reduce sparcity problems. Compare to Singular Value Decomposition and Latent Semantic Indexing.
+
+Discuss the Fidel Cacheda Comparison of Collaborative Filtering Algorithms Paper
+
+Justify Kendall Tau evaluation technique. Discuss limitations with existing evalutation techniques for recommender systems. e.g. RMSE doesn't test the algorithm's ability to find useful serendipitous results; it is biased towards algorithms that find patterns in user rating behaviour and doesn't reward algorithms that are good at recommending non-obvious items the user doesn't know about but would like if they did.
+
+
+One reason my dot-product similarity algorithm may perform better than Pearson Correlation for user-based collaborative filtering is that it places less emphasis on users needing to be similar across all their tastes in order to be considered relevent neighbours. This is related to one of the findings of the hypothesis of the CACHEDA paper: that it is very difficult to find users that are similar.
+
+Kendall Evaluator doesn't work for Book Crossing dataset. Talk about greater sparcity of BX dataset in the context the challenges in reputation system algorithms of coping with a great variety of different environments.
+
+using scaling factors in the dot-product user-based algorithm increased run-time enormously but did not result in a significant improvements in results even in the best case.
+
+Problems of Synonymy in Book Crossing Dataset. Many equivalent books are listed as distinct items.

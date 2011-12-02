@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="scala" name="Scala">
+      <configuration>
+        <option name="compilerLibraryLevel" value="Global" />
+        <option name="compilerLibraryName" value="scala-compiler-2.9.1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lenskit" level="application" />
+    <orderEntry type="library" name="JDBC" level="application" />
+    <orderEntry type="library" name="scala-library-2.9.1" level="application" />
+    <orderEntry type="library" name="scala-compiler-2.9.1" level="application" />
+    <orderEntry type="library" name="Java Statistical Classes" level="project" />
+    <orderEntry type="module" module-name="mahout" />
+    <orderEntry type="module" module-name="mahout-buildtools" />
+    <orderEntry type="module" module-name="mahout-core" />
+    <orderEntry type="module" module-name="mahout-distribution" />
+    <orderEntry type="module" module-name="mahout-examples" />
+    <orderEntry type="module" module-name="mahout-integration" />
+    <orderEntry type="module" module-name="mahout-math" />
+  </component>
+</module>
+

@@ -1,0 +1,179 @@
+dataset: MovieLens
+evaluator: MAERecommenderEvaluator
+10.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.19462468791305446 (0.19006391494489236,0.19908536381044145,0.19947120634775686,0.18763457067548195,0.1968683837866997)
+
+dataset: MovieLens
+evaluator: MAERecommenderEvaluator
+20.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.18931193998547644 (0.18942356190113255,0.19034271989002438,0.1883069519182562,0.18905597150321496,0.1894304947147542)
+
+dataset: MovieLens
+evaluator: MAERecommenderEvaluator
+30.000000000000004% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.1865070030538684 (0.18600105464743324,0.17906857293604933,0.19254488204508607,0.1855698365641642,0.18935066907660889)
+
+dataset: MovieLens
+evaluator: MAERecommenderEvaluator
+40.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.18339686378004036 (0.1784484618026031,0.1791978485121848,0.18373205420813032,0.18494576241057364,0.1906601919667099)
+
+dataset: MovieLens
+evaluator: MAERecommenderEvaluator
+50.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.18771957127571057 (0.18835106497924814,0.18697193919122312,0.1852512576816797,0.18781725288705073,0.1902063416393511)
+
+dataset: MovieLens
+evaluator: MAERecommenderEvaluator
+60.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.18296755875236298 (0.18377707518509573,0.1889189760741486,0.18860890745372458,0.17564105835558652,0.17789177669325934)
+
+dataset: MovieLens
+evaluator: MAERecommenderEvaluator
+70.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.1829379217792096 (0.18708981851787615,0.18322149147130018,0.17979592733812097,0.17801588243231625,0.18656648913643434)
+
+dataset: MovieLens
+evaluator: MAERecommenderEvaluator
+80.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.18601748021980247 (0.1818091705804551,0.18669203928621217,0.19211012658395593,0.1870032368405474,0.18247282780784183)
+
+dataset: MovieLens
+evaluator: MAERecommenderEvaluator
+89.99999999999999% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.18137304918693886 (0.18683543774123948,0.18035755675035103,0.17534710468063858,0.18139720521241098,0.18292794155005423)
+
+dataset: MovieLens
+evaluator: KendallTauRecommenderEvaluator
+10.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.30982282292240226 (0.3072423717040998,0.3137767149826133,0.3123033732448889,0.3110866657145182,0.30470498896589093)
+
+dataset: MovieLens
+evaluator: KendallTauRecommenderEvaluator
+20.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.31429724328272834 (0.308051594304985,0.3429991904094165,0.30145283337845447,0.3028768133223982,0.3161057849983876)
+
+dataset: MovieLens
+evaluator: KendallTauRecommenderEvaluator
+30.000000000000004% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.314246161958044 (0.31375779671839416,0.31525545816499545,0.30497110562408913,0.31568094317542467,0.3215655061073168)
+
+dataset: MovieLens
+evaluator: KendallTauRecommenderEvaluator
+40.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.31169538187923224 (0.3005215541634322,0.31125548431391165,0.3130871008762567,0.3191162911297329,0.31449647891282795)
+
+dataset: MovieLens
+evaluator: KendallTauRecommenderEvaluator
+50.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.32240171985639754 (0.31387070283043494,NaN,0.33143147196377126,0.3145151417519453,0.3297895628794385)
+
+dataset: MovieLens
+evaluator: KendallTauRecommenderEvaluator
+60.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.32007669027203967 (0.3142744261677464,0.33634242833583883,0.30012441073508833,NaN,0.3295654958494851)
+
+dataset: MovieLens-Centered
+evaluator: MAERecommenderEvaluator
+10.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.19443181420809494 (0.19406263518777828,0.19990073847624742,0.1936800746842181,0.1940699579109601,0.1904456647812708)
+
+dataset: MovieLens-Centered
+evaluator: MAERecommenderEvaluator
+20.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.1871688844603866 (0.18901655848416968,0.18708790982807205,0.184319146343631,0.18694416787270948,0.18847663977335072)
+
+dataset: MovieLens-Centered
+evaluator: MAERecommenderEvaluator
+30.000000000000004% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.18467902695996832 (0.18298734092345398,0.18274543268239216,0.18089678939739665,0.1868773500989199,0.1898882216976789)
+
+dataset: MovieLens-Centered
+evaluator: MAERecommenderEvaluator
+40.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.18725307328209687 (0.1886095353457956,0.17848372728679898,0.1954742489908689,0.18662731131721066,0.18707054346981025)
+
+dataset: MovieLens-Centered
+evaluator: MAERecommenderEvaluator
+50.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.18689327918225782 (0.18809936895573265,0.1875382611173081,0.184167368300751,0.18737604804656274,0.18728534949093464)
+
+dataset: MovieLens-Centered
+evaluator: MAERecommenderEvaluator
+60.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.1852441973327001 (0.18424371694687672,0.18960029790044597,0.18783687146846761,0.18810484389757245,0.17643525645013775)
+
+dataset: MovieLens-Centered
+evaluator: MAERecommenderEvaluator
+70.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.181914623187351 (0.1812147558422572,0.1814516919874632,0.1739454804589144,0.1860877441593191,0.186873443488801)
+
+dataset: MovieLens-Centered
+evaluator: MAERecommenderEvaluator
+80.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.18741238030122415 (0.1894493132483451,0.18079649694106867,0.18881658307431742,0.1899940331190831,0.1880054751233064)
+
+dataset: MovieLens-Centered
+evaluator: MAERecommenderEvaluator
+89.99999999999999% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.1797761053597705 (0.1770884805642724,0.18099955748620578,0.1758980154344188,0.18061016158141865,0.18428431173253693)
+
+dataset: MovieLens-Centered
+evaluator: KendallTauRecommenderEvaluator
+10.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.2937678878551189 (0.29987617608287787,0.2874709303832328,0.30727404483986426,0.2783765877488549,0.29584170022076467)
+
+dataset: MovieLens-Centered
+evaluator: KendallTauRecommenderEvaluator
+20.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.309993633751633 (0.31992472819878015,0.3227728338974737,0.3050117149436803,0.30281954570228536,0.2994393460159457)
+
+dataset: MovieLens-Centered
+evaluator: KendallTauRecommenderEvaluator
+30.000000000000004% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.30485392638670594 (0.3219178452975532,0.31195080819764165,0.28198995509596453,0.2942715556918676,0.31413946765050266)
+
+dataset: MovieLens-Centered
+evaluator: KendallTauRecommenderEvaluator
+40.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.3124976895127603 (0.30309617345753426,0.2999753545323539,0.33101368919570423,0.31224503091086564,0.3161581994673435)
+
+dataset: MovieLens-Centered
+evaluator: KendallTauRecommenderEvaluator
+50.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.3179282485837969 (0.30246164415048477,0.3311479953655579,0.32246562352781266,0.3127105492728881,0.3208554306022411)
+
+dataset: MovieLens-Centered
+evaluator: KendallTauRecommenderEvaluator
+60.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.3184089185924354 (0.32340821897967803,0.3236521454447115,0.3055370085974795,0.3174917053035203,0.32195551463678795)

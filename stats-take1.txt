@@ -1,0 +1,321 @@
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+90.0% of each user's preferences used for training.
+50.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.9650980323538408
+ItemBasedKnnPearsonSimilarityRecBuilder(100): 		2.113855123312338
+UserBasedKnnPearsonSimilarityRecBuilder(15): 		1.1457140452376067
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.5,0.8): 		1.0425731356499683
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+15.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.9938987678751188
+UserBasedKnnPearsonSimilarityRecBuilder(15): 		1.1494891648260646
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.5,1.0): 		1.0730262284752274
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.4,1.0): 		1.0650542956130928
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.3,1.0): 		1.15934941522707
+UserBasedKnnDotProductSimilarityRecBuilder(15,1.0,0.5): 		1.1379925187209226
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+100% of users used for evaluation.
+SlopeOneRecBuilder: 		0.9484577926753103
+UserBasedKnnPearsonSimilarityRecBuilder(10): 		1.1795392503476885
+UserBasedKnnPearsonSimilarityRecBuilder(20): 		1.1418310638354117
+UserBasedKnnPearsonSimilarityRecBuilder(30): 		1.1569813431051037
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.5,1.0): 		1.0696480920709897
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.4,1.0): 		1.071816786257911
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.35,1.0): 		1.0570309109359437
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.4,0.8): 		1.0591839710479418
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.4,0.6): 		1.0580223595625564
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.4,0.4): 		1.0644331166208068
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+100% of users used for evaluation.
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.35,0.6): 		1.0650402945284203
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.325,0.6): 		1.061388776630585
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.3,0.6): 		1.0565570409398577
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+100% of users used for evaluation.
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.35,0.6): 		1.0548900575004396
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.325,0.6): 		1.0628759926135376
+UserBasedKnnDotProductSimilarityRecBuilder(15,0.3,0.6): 		1.0620168872977143
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+100% of users used for evaluation.
+UserBasedKnnDotProductSimilarityRecBuilder(15,1.0,1.0): 		1.066177949914419
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+100% of users used for evaluation.
+UserBasedKnnDotProductSimilarityRecBuilder(15,1.0,1.0): 		1.0681647082077856
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+100% of users used for evaluation.
+UserBasedKnnDotProductSimilarityRecBuilder(15,1.0,1.0): 		1.0761611198039336
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+100% of users used for evaluation.
+UserBasedKnnDotProductSimilarityRecBuilder(15,1.0,1.0): 		1.075389174486501
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+100% of users used for evaluation.
+UserBasedKnnDotProductSimilarityRecBuilder(20,1.0,1.0): 		1.0516372851161313
+UserBasedKnnDotProductSimilarityRecBuilder(20,1.0,1.0): 		1.0526901924461691
+UserBasedKnnDotProductSimilarityRecBuilder(20,1.0,1.0): 		1.0624308405792529
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+100% of users used for evaluation.
+UserBasedKnnDotProductSimilarityRecBuilder(25,1.0,1.0): 		1.0496586188680674
+UserBasedKnnDotProductSimilarityRecBuilder(30,1.0,1.0): 		1.045294185794639
+UserBasedKnnDotProductSimilarityRecBuilder(40,1.0,1.0): 		1.0323450888515564
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+100% of users used for evaluation.
+UserBasedKnnDotProductSimilarityRecBuilder(40,1.0,1.0): 		1.0425531097420342
+UserBasedKnnDotProductSimilarityRecBuilder(50,1.0,1.0): 		1.0340639484477252
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.0118989130935785
+UserBasedKnnDotProductSimilarityRecBuilder(200,1.0,1.0): 		1.022386535816862
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+50.0% of users used for evaluation.
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		0.9991987663733775
+UserBasedKnnDotProductSimilarityRecBuilder(200,1.0,1.0): 		1.016282000178439
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+50.0% of users used for evaluation.
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		0.9976575433686391
+UserBasedKnnDotProductSimilarityRecBuilder(200,1.0,1.0): 		1.0274876794022638
+UserBasedKnnDotProductSimilarityRecBuilder(300,1.0,1.0): 		0.9977180661711498
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+50.0% of users used for evaluation.
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.0296914147326075
+UserBasedKnnDotProductSimilarityRecBuilder(200,1.0,1.0): 		1.0123002394203158
+UserBasedKnnDotProductSimilarityRecBuilder(300,1.0,1.0): 		1.0401157939778882
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+50.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.9366071643118162
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		1.0623444997344405
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.0218396716884606
+UserBasedKnnDotProductSimilarityRecBuilder(300,1.0,1.0): 		1.0156887883260288
+
+dataset: Book-Crossing (centered)
+evaluator: RMSRecommenderEvaluator
+70.0% of each user's preferences used for training.
+50.0% of users used for evaluation.
+SlopeOneRecBuilder: 		1.193063770814511
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.8632212428069055
+UserBasedKnnDotProductSimilarityRecBuilder(300,1.0,1.0): 		1.8778209735945328
+
+dataset: movieLens-100k
+evaluator: KendallTauRecommenderEvaluator
+20.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.3043788232972644
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		0.2908963047240836
+
+dataset: movieLens-100k
+evaluator: KendallTauRecommenderEvaluator
+20.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.30767454926587134
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		0.27665253058692285
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		0.2951495864173097
+
+dataset: movieLens-100k
+evaluator: KendallTauRecommenderEvaluator
+40.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.31255404982779955
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		0.23832344339658265
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		0.30177462054632603
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+20.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.9570880387212968 (0.9231718647577976,0.9689631663625814,0.9675153552517876,0.9650190776182411,0.9607707296160766)
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		1.082385424783158 (1.0952771728740534,1.0877173311357589,1.1074701738745159,1.0534517592303463,1.0680106868011154)
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.0377432261659465 (1.0588979363855022,1.0542406270367275,1.0207095695799842,1.043637065725551,1.0112309321019672)
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+40.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.9463498029006632 (0.9432897442647502,0.9176358108850649,0.9701471754494523,0.9713096859793237,0.9293665979247248)
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		1.063865409479184 (1.0475786285092679,1.0979008947157551,1.062982394518019,1.0672011537558173,1.0436639758970594)
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.0260295060150046 (1.0547082053034587,0.9901757707821086,1.061936988718074,1.0039322203554188,1.0193943449159626)
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+60.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.939769394184756 (0.9658600672442553,0.9173704226926463,0.9019499954466433,0.9446764339993194,0.9689900515409161)
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		1.0671564176841308 (1.0573469968341018,1.071764844544809,1.0769864017976711,1.0830388239961668,1.046645021247906)
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.0145910632413273 (1.0181187756554024,1.011902520244193,1.0323042202408046,1.0089414524543288,1.0016883476119076)
+
+dataset: movieLens-100k
+evaluator: RMSRecommenderEvaluator
+80.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.9274669813809243 (0.9121683756134993,0.921377054018963,0.9135716839835188,0.9474922693839403,0.9427255239047008)
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		1.0592424657426527 (1.0963280297120164,1.0412931234607241,1.051729354619109,1.060252353875461,1.046609467045953)
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.0023188260263727 (0.9941688987434707,1.0254792639745398,0.9993714389086649,1.0208986567997334,0.971675871705454)
+
+dataset: movieLens-100k
+evaluator: KendallTauRecommenderEvaluator
+10.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.30691124564971084 (0.2885766164862998,0.2893424788563563,0.295504184952079,0.3192649252644504,0.31360284795461574,0.31347229242489755,0.3053317645140545,0.30320272270655435,0.3230627081985844,0.3177519151392163)
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		0.24587986195129896 (0.24459282078994599,0.25399068160842053,0.2719363398711116,0.23424211269815973,0.25103325472653015,0.23941034196350677,0.24061479267178335,0.22481124503200625,0.23280450870646374,0.26536252144506134)
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		0.3020758821395717 (0.30193566103324876,0.29130737544556845,0.3090004748989976,0.29920973446677945,0.3061093023085561,0.31616520029540446,0.30088898612031645,0.2910153041180596,0.30901126137370344,0.29611552133508245)
+
+dataset: movieLens-100k
+evaluator: KendallTauRecommenderEvaluator
+20.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.3092028576729327 (0.3107006267893354,0.3168651787503738,0.3051321215501797,0.2972349373568877,0.28632997880186595,0.32381810926923643,0.321209661111234,0.32292132364896275,0.30677041822694,0.3010462212243113)
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		0.24841604488727181 (0.2546377059585919,0.2544793335247083,0.2395551185154051,0.24348579199741338,0.22831627698676185,0.24701122998487934,0.26207746668870935,0.2607601697472455,0.2560283036776111,0.23780905179139236)
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		0.30376710871355667 (0.2958124595228675,0.284145482213445,0.29583830816796924,0.2948161716697646,0.3150202145608877,0.3366469600504492,0.3005859890246694,0.2973855449213464,0.3199027729057946,0.29751718409837297)
+
+dataset: movieLens-100k
+evaluator: KendallTauRecommenderEvaluator
+30.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.31315878275134607 (0.32538444784425863,0.31501804065789146,0.2966798702952467,0.31309346179932046,0.3012244774671433,0.3251495784740259,0.3150699989960266,0.30608758340673875,0.3259624641791378,0.3079179043936708)
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		0.2484835155301449 (NaN,0.25035611128440927,0.24600505077096504,NaN,0.2475813425929203,0.23743423982961334,0.2504035087799571,0.253360766694046,0.2648769221226514,0.2378501821665966)
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		0.2982048199825153 (0.2919041175358775,0.31360257066144853,0.3013026309333242,0.29211387344951606,0.3009095521182555,0.3045088832878549,0.30264611973959793,0.29646113511695565,0.2830828433789954,0.2955164736033272)
+
+dataset: movieLens-100k
+evaluator: KendallTauRecommenderEvaluator
+40.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.3163779216203126 (0.2837198905758312,0.3147130306235582,0.34056953988884464,0.33230270463094286,0.3352077509697125,0.31189441683621766,0.32338270519618495,NaN,0.3045033412610653,0.30110791460045616)
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		0.24969517781691758 (0.24052351458964893,0.24972200352378615,0.2603290612568448,0.2443741066359093,0.2525979609602135,0.2573331942525833,0.24731887007672274,0.24016731457526483,0.24905155027297177,0.25553420202523075)
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		0.3003785132766021 (0.31694106897546154,0.2884886192592172,0.3068740143432817,0.30274334215726156,0.2991196646859098,0.2897281373970257,0.31161110564291516,0.28269448138281483,0.3052061856455309,NaN)
+
+dataset: movieLens-100k
+evaluator: KendallTauRecommenderEvaluator
+50.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.30689381294823653 (0.3139541920498211,0.30542030340520593,0.2958086313916618,0.29121626963632374,0.3058185654031688,0.3143566543325171,0.29984207895050874,0.30455925775640513,0.3096698674574675,0.3282923090992854)
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		0.2536203566525902 (0.24900278133268788,0.23991369393709203,NaN,NaN,NaN,0.24581046611808588,0.25414776027952857,0.27650100911054865,0.243924032007217,0.2660427537829717)
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		0.3061858149366177 (0.31278438253431856,0.3325516317997958,0.3107419772152822,NaN,0.29066541387640804,0.3088682364449225,0.2943474342611628,0.2842494175831395,NaN,0.31527802577791186)
+
+dataset: movieLens-100k
+evaluator: KendallTauRecommenderEvaluator
+60.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneRecBuilder: 		0.31682709415835014 (0.3219597066202295,0.3064842668712482,NaN,0.34326987465591385,0.3395788725456127,0.2977804029192581,0.312543332321285,NaN,NaN,0.29617320317490375)
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		0.2476256605873214 (0.26329617597628696,NaN,0.24828482335593044,NaN,0.23509050861284914,NaN,NaN,0.25382690429850374,0.24224077780039865,0.24301477347995976)
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		0.29520913234872015 (NaN,0.300890228296659,0.3021731467568842,0.29615483161164924,0.28442712811612314,0.28354620343175285,NaN,0.2938718324970023,NaN,0.30540055573097036)
+
+dataset: Book-Crossing (centered)
+evaluator: RMSRecommenderEvaluator
+80.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneSqlDiffRecBuilder: 		1.1676139876723906 (1.1715354469355521,1.155441978762218,1.179164973854534,1.180844987691736,1.1510825511179132)
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		2.656548147670254 (2.6272320495461985,2.6064410046780866,2.6852340252875013,2.6851168394550506,2.6787168193844337)
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.860747310814931 (1.8995819209685445,1.8329380140089142,1.8795902243540272,1.875287039208431,1.8163393555347371)
+
+dataset: Book-Crossing
+evaluator: RMSRecommenderEvaluator
+80.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneSqlDiffRecBuilder: 		1.3124971559462766 (1.3152954550697227,1.3354851582410159,1.2950304492849165,1.3185735389004676,1.2981011782352612)
+
+dataset: Book-Crossing
+evaluator: RMSRecommenderEvaluator
+80.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneSqlDiffRecBuilder: 		1.5835470263694795 (1.5835470263694795)
+
+dataset: Book-Crossing
+evaluator: RMSRecommenderEvaluator
+80.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.978310605355665 (1.978310605355665)
+
+dataset: Book-Crossing-all
+evaluator: RMSRecommenderEvaluator
+time: ~5:30 mins
+80.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.9013622412864022 (1.9013622412864022)
+
+dataset: Book-Crossing-centered
+evaluator: RMSRecommenderEvaluator
+time: ~30s
+80.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.8480637600843401 (1.8480637600843401)
+
+
+dataset: Book-Crossing
+evaluator: RMSRecommenderEvaluator
+20.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneSqlDiffRecBuilder: 		1.5123941005547952 (1.5183608042308168,1.5085846573709754,1.501079002294991,1.5506091391736812,1.4833368997035126)
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		2.8477913860880575 (2.770387224933617,2.9203082081983207,2.9898772486128617,2.7551559028324144,2.803228345863074)
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.9883155136479402 (1.9386097046409172,2.0090184412518743,1.9403456140700281,2.046851500785399,2.006752307491483)
+
+dataset: Book-Crossing
+evaluator: RMSRecommenderEvaluator
+40.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneSqlDiffRecBuilder: 		1.482972937058513 (1.5109262450419467,1.4785870882389904,1.4733339439515425,1.4831513674462962,1.4688660406137888)
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		2.8290608522293903 (2.832126614955476,2.7912894971156614,2.8589234408007136,2.8394510458285827,2.8235136624465187)
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.9339257918708435 (1.9479825994437068,1.9060869269165006,1.936153963408063,1.941049399218411,1.938356070367535)
+
+dataset: Book-Crossing
+evaluator: RMSRecommenderEvaluator
+60.00000000000001% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneSqlDiffRecBuilder: 		1.41700655943832 (1.410241608840965,1.4383192473475046,1.4280980342054277,1.4167058171497298,1.3916680896479747)
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		2.738572587247695 (2.6672878445136723,2.6941279031978564,2.790090100862826,2.8245224561295856,2.7168346315345335)
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.9534600826141026 (1.894449406306665,1.9724869955981257,1.9738477475474754,1.927078026721325,1.9994382368969237)
+
+dataset: Book-Crossing
+evaluator: RMSRecommenderEvaluator
+80.0% of each user's preferences used for training.
+20.0% of users used for evaluation.
+SlopeOneSqlDiffRecBuilder: 		1.3066200528846863 (1.3157947809609174,1.2899500690032584,1.3282348285518373,1.3085531270089976,1.2905674588984213)
+UserBasedKnnPearsonSimilarityRecBuilder(100): 		2.647177604026653 (2.693186731076309,2.577533496790101,2.6430824737314973,2.705380888338439,2.616704430196916)
+UserBasedKnnDotProductSimilarityRecBuilder(100,1.0,1.0): 		1.9583906074120077 (1.9835135318069221,2.0063774407239694,1.9730785946799925,1.9290651346411571,1.8999183352079967)
+
+
+
+
+
